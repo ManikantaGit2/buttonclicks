@@ -1,0 +1,27 @@
+.counter-heading {
+    text-align: center;
+    color: rgb(80, 178, 224);
+    font-size: 45px;
+    font-weight: 700;
+
+}
+.button {
+    background-color: rgb(64, 64, 199);
+    color: white;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: rgb(204, 204, 218);
+    margin-left: 100px;
+    height: 40px;
+    width: 75px;
+}
+.main {
+    height: 400px;
+    width: 300px;
+   background-color: rgb(226, 219, 210);
+}
+.increment {
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: 100;
+}
